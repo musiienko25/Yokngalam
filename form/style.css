@@ -1,0 +1,141 @@
+    	.registration-form {
+    		width: 550px;
+    		height: 450px;
+    		background: #FFFFA2;
+    	}
+
+    	.day {
+    		display: inline-block;
+    		margin-left: 20px;
+    		color: #00dac2;
+    		font-size: 13px;
+    		font-weight: bold;
+		}
+
+		.bromo {
+			margin-left: 15px;
+		}
+
+		.your {
+			background: #00dac2;
+			padding: 18px;
+			border-radius: 8px 8px 0 0;
+			color: white;
+			text-align: center;
+		}
+
+		.bromo {
+			margin-left: 20px;
+			width: 760px;
+			border-radius: 8px;
+			padding: 10px;
+			font-size: 18px;
+		}
+
+		.five {
+			text-align: right;
+		}
+
+		.icon {
+		    background-image: url(icon/icon.jpg);   
+		    background-repeat: no-repeat; 
+		    background-position: 4px; 
+		    outline: none; 
+		    -webkit-border-radius: 5px; 
+		    border-radius: 5px; 
+		    padding-left: 20px; 
+		    position: absolute;
+		}
+
+		.input {
+			display: block;
+			width: 100%;
+		}
+
+		.time {
+			position: absolute;
+			right: 0;
+			padding: 10px;
+		}
+
+		label {
+			position: relative;
+			margin-left: 20px;
+		}
+
+		input {
+			border-radius: 5px;
+			padding: 10px;
+			width: 500px;
+		}
+
+		.label {
+			margin-left: 20px;
+			position: relative;
+			margin-top: 20px;
+		}
+
+		.batu {
+			margin-top: 20px;
+		}
+
+		.date {
+			color: #00dac2;
+    		font-size: 13px;
+    		font-weight: bold;
+    		margin-right: 20px;
+    		text-align: right;
+    		display: inline-block;
+    		float: right;
+    		margin-right: 30px;
+		}
+
+		.add {
+			background: #f9e99b;
+			border: none;
+			float: right;
+			margin-right: 50px;
+			color: #decc79;
+			padding: 7px;
+			margin-bottom: 10px;
+		}
+
+		.gonna {
+		    background: #f9e99b;
+		    border: none;
+		    margin-right: 50px;
+		    color: #decc79;
+		    width: 85%;
+		    padding: 5px;
+		    margin: 0 auto;
+
+		}
+
+		.enjoy {
+			padding: 4px;
+			border-bottom: 1px solid #e1cf7c;
+		}
+
+		.text2 {
+    		padding: 4px;
+		}
+
+		.day2 {
+			color: #decc79;
+
+
+		    background: #fbf6a3;
+		    border: 2px dashed #e1cf7c;
+		    padding: 10px 170px 10px 170px;
+		    margin-top: 20px;
+		}
+
+		.clearfix::after {
+		    content: "";
+		    display: table;
+		    clear: both;
+		}
+
+		.date-block {
+			margin-top: 6px;
+		}

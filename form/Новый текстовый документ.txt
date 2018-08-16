@@ -1,0 +1,11 @@
+    background: #f9e99b;
+    border: none;
+    /* float: right; */
+    text-align: left;
+    width: 80%;
+    position: relative;
+    left: 6%;
+    /* margin-right: 50px; */
+    /* padding: 10px; */
+    padding-bottom: 15px;
+    color: #decc79;
